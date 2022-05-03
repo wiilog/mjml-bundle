@@ -1,5 +1,5 @@
 {
-  "name": "assoconnect/mjml-bundle",
+  "name": "wiilog/mjml-bundle",
   "description": "MJML template support for Twig template engine",
   "type": "symfony-bundle",
   "license": "MIT",
